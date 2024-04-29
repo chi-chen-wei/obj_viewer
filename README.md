@@ -1,6 +1,10 @@
 # OBJ Viewer
 
-The program loaded an OBJ file and a specified MTL file to create mesh data. Then the model as well as the lights were rendered using Blinn-Phong lighting model. Finally, image textures were loaded for spatially-varying diffuse coefficients.
+This is a homework of 2023 Computer Graphics course in NTPU, Taiwan.
+
+Given a skeleton code, I implemented an OBJ viewer with OpenGL.
+
+This program loaded an OBJ file and a specified MTL file to create mesh data. Then the model as well as the lights were rendered using Blinn-Phong lighting model. Finally, image textures were loaded for spatially-varying diffuse coefficients.
 
 # Reference results
 
